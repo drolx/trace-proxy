@@ -1,18 +1,18 @@
 {
-    "name": "@trace/website",
-    "description": "Trace project website",
+    "name": "@trace/proxy",
+    "description": "Trace project proxy",
     "version": "0.0.1",
     "private": true,
     "author": "radioActive DROID <me@godwin.dev>",
     "license": "RPL-1.5",
     "repository": {
         "type": "git",
-        "url": "https://github.com/gpproton/trace-website.git"
+        "url": "https://github.com/gpproton/trace-proxy.git"
     },
     "bugs": {
-        "url": "https://github.com/gpproton/trace-website/issues"
+        "url": "https://github.com/gpproton/trace-proxy/issues"
     },
-    "homepage": "https://trace.ng",
+    "homepage": "https://github.com/gpproton/trace-proxy",
     "scripts": {
         "dev": "vite",
         "build": "vite build"
