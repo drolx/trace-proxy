@@ -1,5 +1,18 @@
 {
+    "name": "@trace/website",
+    "description": "Trace project website",
+    "version": "0.0.1",
     "private": true,
+    "author": "radioActive DROID <me@godwin.dev>",
+    "license": "RPL-1.5",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gpproton/trace-website.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gpproton/trace-website/issues"
+    },
+    "homepage": "https://trace.ng",
     "scripts": {
         "dev": "vite",
         "build": "vite build"
