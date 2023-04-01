@@ -1,7 +1,5 @@
 {
-    "name": "@trace/proxy",
-    "description": "Trace project proxy",
-    "version": "0.0.1",
+    "description": "Trace integration proxy",
     "private": true,
     "author": "radioActive DROID <me@godwin.dev>",
     "license": "RPL-1.5",
@@ -19,9 +17,7 @@
     },
     "devDependencies": {
         "axios": "^1.1.2",
-        "laravel-vite-plugin": "^0.7.0",
-        "lodash": "^4.17.19",
-        "postcss": "^8.1.14",
-        "vite": "^3.0.0"
+        "laravel-vite-plugin": "^0.7.2",
+        "vite": "^4.0.0"
     }
 }
