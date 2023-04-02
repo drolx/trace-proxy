@@ -1,14 +1,10 @@
-<script setup lang="ts">
+<script lang="ts" setup>
 import { Head } from '@inertiajs/vue3';
-// defineProps<{
-//     canLogin?: boolean;
-//     canRegister?: boolean;
-//     laravelVersion: string;
-//     phpVersion: string;
-// }>();
 </script>
 
 <template>
-    <Head title="Welcome" />
-    <div>Welcome</div>
+    <Head title="Index" />
+    <v-container class="py-4 px-6" fluid>
+        <div>Index</div>
+    </v-container>
 </template>
